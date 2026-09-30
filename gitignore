@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.example
+auth/
+data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+qr.png
+logs/
+dev/
+coverage/
+dist/
+*.log
+.DS_Store
